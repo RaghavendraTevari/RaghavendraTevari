@@ -21,7 +21,7 @@
 
 ## 🔧 Skills 
 
-- 📊 **Excel** – Pivot Tables, VLOOKUP/XLOOKUP, Power Query, dashboards
+- 📊 **Excel** – Pivot Tables, VLOOKUP/XLOOKUP, Power Query, Dashboards, VBA, Macros
 - 📈 **Tableau** – Interactive dashboards, data storytelling, KPIs, filters & actions
 - 🛢️ **MySQL** – Data extraction, joins, subqueries, window functions
 - 🐍 **Python** – Pandas, NumPy, Matplotlib, Seaborn, data wrangling & visualization
