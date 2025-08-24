@@ -33,7 +33,7 @@
 
 Here are a few of my favorite data projects:
 
-### 📌 [Sales Dashboard in Excel](https://github.com/Raghu-rt/sales-dashboard-excel)
+### 📌 [Sales Dashboard](https://github.com/raghavendratevari/sales_Dashboard)
 - Built a dynamic sales dashboard using PivotTables, slicers, and formulas.
 - Tracked monthly sales performance and regional comparisons.
 
