@@ -69,11 +69,6 @@ Here are a few of my favorite data projects:
 **Description:** Segmented customer data to identify key trends in purchasing behavior for a retail client.  
 
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDoe&layout=compact&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=JohnDoe&show_icons=true&hide_title=true&theme=dark)
-
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/raghavendratevari/)
 - 📧 [Email me](mailto:raghavendratevari@gmail.com)
