@@ -33,27 +33,24 @@
 
 Here are a few of my favorite data projects:
 
-### 📌 [Sales Dashboard](https://github.com/raghavendratevari/sales_Dashboard)
-- Built a dynamic sales dashboard using PivotTables, slicers, and formulas.
-- Tracked monthly sales performance and regional comparisons.
-
-### 📌 [Customer Segmentation in Python](https://github.com/Raghu-rt/customer-segmentation-python)
-- Applied clustering algorithms (K-Means) to segment customers.
-- Used Pandas and Seaborn for EDA and visual insights.
-
-### 📌 [Superstore Insights Tableau Dashboard](https://public.tableau.com/app/profile/Raghu-rt)
-- Analyzed sales, profit, and shipping trends.
+### 📌 [HR Analytics SQL and Powerbi Dashboard](https://github.com/raghavendratevari/HR_Analytics)
+- Salary of Percentage Hike.
+- Education, Department and Monthly income wise attrition.
 - Created interactive visuals for executive decision-making.
 
-### 📌 [SQL Queries for Retail Database](https://github.com/Raghu-rt/sql-retail-analysis)
-- Wrote complex SQL queries to analyze product performance and customer behavior.
+### 📌 [Bank Analytics Dashboard](https://github.com/raghavendratevari/Bank_Analytics)
+- Total Loan Amount, Region wise loan.
+- Branch wise loan, state wise loan.
+- - Wrote complex SQL queries to analyze product performance and customer behavior.
+  
+### 📌 [Sales Dashboard](https://github.com/raghavendratevari/Sales_Dashboard)
+- Built a dynamic sales dashboard using PivotTables, slicers, and formulas.
+- Tracked monthly sales performance and regional comparisons.
 - Covered joins, aggregations, subqueries, and CTEs.
-
----
 
 ## 📚 Certifications
 
-- 📜 [Google Data Analytics Certificate (Coursera)](link)
+- 📜 [Data Analytics Certificate (ExcelR)](link)
 - 📜 [Tableau Desktop Specialist](link)
 - 📜 [Excel for Data Analytics (LinkedIn Learning)](link)
 
