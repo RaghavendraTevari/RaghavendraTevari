@@ -41,7 +41,7 @@ Here are a few of my favorite data projects:
 ### 📌 [Bank Analytics Dashboard](https://github.com/raghavendratevari/Bank_Analytics)
 - Total Loan Amount, Region wise loan.
 - Branch wise loan, state wise loan.
-- - Wrote complex SQL queries to analyze product performance and customer behavior.
+- Wrote complex SQL queries to analyze product performance and customer behavior.
   
 ### 📌 [Sales Dashboard](https://github.com/raghavendratevari/Sales_Dashboard)
 - Built a dynamic sales dashboard using PivotTables, slicers, and formulas.
