@@ -51,8 +51,6 @@ Here are a few of my favorite data projects:
 ## 📚 Certifications
 
 - 📜 [Data Analytics Certificate (ExcelR)](link)
-- 📜 [Tableau Desktop Specialist](link)
-- 📜 [Excel for Data Analytics (LinkedIn Learning)](link)
 
 ## 📂 Featured Projects
 
