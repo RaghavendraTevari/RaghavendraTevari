@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=📊+Making+raw+data+into+meaningful+insights;🎯+Creating+interactive+Dashboards;To+help+a+company+achieve+its+goalsl)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=📊+Making+raw+data+into+meaningful+insights;🎯+Creating+interactive+Dashboards;To+help+a+company+achieve+its+goals)](https://git.io/typing-svg)
 
 # Welcome to My Data Insights
 ## 👋 Hello, I'm Raghavendra Tevari  
