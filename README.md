@@ -33,7 +33,7 @@
 
 Here are a few of my favorite data projects:
 
-### 📌 [Inventory Management System](https://github.com/raghavendratevari/Inventory Management System)
+### 📌 [Inventory Management System](https://github.com/RaghavendraTevari/Inventory-Management-System)
 - Total Loan Amount, Region wise loan.
 - Branch wise loan, state wise loan.
 - Wrote complex SQL queries to analyze product performance and customer behavior.
